@@ -18,7 +18,7 @@
 
 - [Linear Regression](supervisedLearning/linearRegression.ipynb)
 - [Polynomial Regression](supervisedLearning/polynomialRegression.ipynb)
-
+- [Logistic Regression & Binary Classification](supervisedLearning/logisticRegression.ipynb)
 -
 -
 

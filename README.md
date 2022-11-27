@@ -19,8 +19,13 @@
 - [Linear Regression](supervisedLearning/linearRegression.ipynb)
 - [Polynomial Regression](supervisedLearning/polynomialRegression.ipynb)
 - [Logistic Regression & Binary Classification](supervisedLearning/logisticRegression.ipynb)
--
--
+- [k Nearest Neighbors](supervisedLearning/kNearestNeighbours.ipynb)
+- [Support Vector Machines](supervisedLearning/supportVectorMachine.ipynb)
+- [SVM Math](supervisedLearning/svmMathBehind.ipynb)
+- [Decision Trees](supervisedLearning/decisionTrees.ipynb)
+- [Random Forests](supervisedLearning/randomForests.ipynb)
+- [Gradient Boosting](supervisedLearning/gradientBoosting.ipynb)
+- [Neural Networks](supervisedLearning/neuralNetworks.ipynb)
 
 ## [2. Unsupervised learning](unsupervisedLearning/)
 

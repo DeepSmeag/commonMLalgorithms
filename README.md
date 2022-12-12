@@ -24,7 +24,7 @@
 - [SVM Math](supervisedLearning/svmMathBehind.ipynb)
 - [Decision Trees](supervisedLearning/decisionTrees.ipynb)
 - [Random Forests](supervisedLearning/randomForests.ipynb)
-- [Gradient Boosting](supervisedLearning/gradientBoosting.ipynb)
+- [Ensemble Methods](supervisedLearning/ensembleMethods.ipynb)
 - [Neural Networks](supervisedLearning/neuralNetworks.ipynb)
 
 ## [2. Unsupervised learning](unsupervisedLearning/)

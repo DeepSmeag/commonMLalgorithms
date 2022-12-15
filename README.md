@@ -4,6 +4,9 @@
 
 ## Have a look at it and see if anything is of help  
 
+Remember to use the "commonMLalgs" environment (see [envTutorial](envTutorial.txt)) to run the notebooks
+
+
 ***
 
 #### Here is a list of contents, updated as I go and add more things

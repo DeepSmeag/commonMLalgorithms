@@ -1,5 +1,6 @@
 numpy
-ipykernel
+jupyter
+ipykernel==6.16.1
 matplotlib
 scipy
 pandas

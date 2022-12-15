@@ -23,6 +23,8 @@ If you have conda:
 
     conda env create -f env.yml
 
-If you don't have conda:
+If you don't have conda, install / create an environment with Python version 3.9.13 or higher (incompatibility issues may appear if the discrepancy is too high)
+
+After that, install the few libraries needed:
 
     pip install -r requirements.txt

@@ -6,5 +6,5 @@ pandas
 scikit-learn
 plotly
 tensorflow
-pytorch
+torch
 xgboost

@@ -1,3 +1,5 @@
+PYTHON VERSION = 3.9.13
+
 If you have conda:
 
     conda env create -f env.yml

@@ -1,0 +1,7 @@
+If you have conda:
+
+    conda env create -f env.yml
+
+If you don't have conda:
+
+    pip install -r requirements.txt

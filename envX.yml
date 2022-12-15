@@ -1,6 +1,0 @@
-name: commonMLalgs
-channels:
-  - defaults
-dependencies:
-  - python=3.9
-prefix: commonMLalgs

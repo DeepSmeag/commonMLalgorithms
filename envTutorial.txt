@@ -1,5 +1,24 @@
 PYTHON VERSION = 3.9.13
 
+If you're using VS Code to read the course, make sure you have the appropriate extensions; these are what I use:
+
+Name: Jupyter
+Id: ms-toolsai.jupyter
+Description: Jupyter notebook support, interactive programming and computing that supports Intellisense, debugging and more.
+Version: 2022.11.1003412109
+Publisher: Microsoft
+VS Marketplace Link: https://marketplace.visualstudio.com/items?itemName=ms-toolsai.jupyter
+
+Name: Jupyter Cell Tags
+Id: ms-toolsai.vscode-jupyter-cell-tags
+Description: Jupyter Cell Tags support for VS Code
+Version: 0.1.6
+Publisher: Microsoft
+VS Marketplace Link: https://marketplace.visualstudio.com/items?itemName=ms-toolsai.vscode-jupyter-cell-tags
+
+
+
+
 If you have conda:
 
     conda env create -f env.yml

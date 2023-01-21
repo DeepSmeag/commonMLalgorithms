@@ -1,6 +1,7 @@
 numpy
 jupyter
 ipykernel==6.16.1
+seaborn
 matplotlib
 scipy
 pandas

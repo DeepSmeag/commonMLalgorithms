@@ -1,6 +1,6 @@
 # commonMLalgorithms
 
-### This repository is meant to be an exercise for me (to better understand these algorithms and be able to implement them freely); and a tutorial to a beginner looking to learn some starting ML algorithms, understand the philosophy behind them and maybe get a general sense of how we think about data
+### This repository is meant to be an exercise for me (to better understand these algorithms and be able to implement them freely); and a tutorial to a beginner looking to learn some starting ML algorithms, understand the philosophy behind them and maybe get a general sense of how we think about data and solving problems
 
 ## Have a look at it and see if anything is of help  
 
@@ -32,5 +32,9 @@ Remember to use the "commonMLalgs" environment (see [envTutorial](envTutorial.tx
 
 ## [2. Unsupervised learning](unsupervisedLearning/)
 
--
--
+- [k Means Clustering](unsupervisedLearning/kMeans.ipynb)
+- [Dimensionality Recuation](unsupervisedLearning/dimensionalityReduction.ipynb)
+
+<br>
+
+I would recommend leaving Neural Networks for last, as it opens the discussion of deep learning, which is a whole topic in itself. These days, most research is about deep networks, no matter what their specific architecture is, so that topic should be a different category.

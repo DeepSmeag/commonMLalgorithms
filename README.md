@@ -37,4 +37,4 @@ Remember to use the "commonMLalgs" environment (see [envTutorial](envTutorial.tx
 
 <br>
 
-I would recommend leaving Neural Networks for last, as it opens the discussion of deep learning, which is a whole topic in itself. These days, most research is about deep networks, no matter what their specific architecture is, so that topic should be a different category.
+I would recommend leaving Neural Networks for last, as it introduces the discussion about deep learning, which is a whole topic in itself. These days, most research is about deep networks, no matter what their specific architecture is, so that topic should be a different category.

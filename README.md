@@ -33,7 +33,7 @@ Remember to use the "commonMLalgs" environment (see [envTutorial](envTutorial.tx
 ## [2. Unsupervised learning](unsupervisedLearning/)
 
 - [k Means Clustering](unsupervisedLearning/kMeans.ipynb)
-- [Dimensionality Recuation](unsupervisedLearning/dimensionalityReduction.ipynb)
+- [Dimensionality Reduction](unsupervisedLearning/dimensionalityReduction.ipynb)
 
 <br>
 

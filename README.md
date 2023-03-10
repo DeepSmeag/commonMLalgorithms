@@ -29,6 +29,7 @@ Remember to use the "commonMLalgs" environment (see [envTutorial](envTutorial.tx
 - [Random Forests](supervisedLearning/randomForests.ipynb)
 - [Ensemble Methods](supervisedLearning/ensembleMethods.ipynb)
 - [Neural Networks](supervisedLearning/neuralNetworks.ipynb)
+- [Convolutional Neural Networks](supervisedLearning/cnns.ipynb)
 
 ## [2. Unsupervised learning](unsupervisedLearning/)
 
